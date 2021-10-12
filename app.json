@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/query/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "快递跟踪",
+    "navigationBarTextStyle": "white"
+  },
+  "plugins": {
+    "expressPlugin": {
+      "version": "1.0.0",
+      "provider": "wx6885acbedba59c14"
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

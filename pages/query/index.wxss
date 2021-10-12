@@ -1,0 +1,39 @@
+page {
+  background: #efeff4;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 30rpx 20rpx;
+  background: #FFF;
+  margin-top: 16rpx;
+}
+
+.item image {
+  width: 100rpx;
+  height: 100rpx;
+  margin-right: 20rpx;
+  flex-shrink: 0;
+  border-radius: 14rpx;
+}
+
+.info {
+  flex: 1;
+}
+.name {
+  font-size: 30rpx;
+}
+.price{
+  font-size: 24rpx;
+  color: #888;
+}
+
+.btn {
+  margin-left: 20rpx;
+  padding: 6rpx 20rpx;
+  background: #317ee7;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  color: #FFF;
+}

@@ -1,0 +1,30 @@
+<view class="container">
+  <view class="list">
+      <view class="item">
+        <image src="./images/1.png"></image>
+        <view class="info">
+          <view class="name">韩国双耳加厚麦饭石汤锅小奶锅</view>
+          <view class="price">¥58×1=¥56.00</view>
+        </view>
+        <view class="btn" bindtap="go" data-num="JDVB12099665361" data-com="jd">查看物流</view>
+      </view>
+
+      <view class="item">
+        <image src="./images/2.png"></image>
+        <view class="info">
+          <view class="name">Dr.Alva瑷尔博士洁颜蜜氨基酸洗面奶 深层控油</view>
+          <view class="price">¥68.98×2=¥137.96</view>
+        </view>
+        <view class="btn" bindtap="go" data-num="772014921508585">查看物流</view>
+      </view>
+
+      <view class="item">
+        <image src="./images/3.png"></image>
+        <view class="info">
+          <view class="name">适用于苹果13Pro硅胶手机壳新款超薄磨砂mini镜头全包</view>
+          <view class="price">¥188.00×1=¥188.00</view>
+        </view>
+        <view class="btn" bindtap="go" data-num="TT6601269619303" data-com="tiantian">查看物流</view>
+      </view>
+  </view>
+</view>
